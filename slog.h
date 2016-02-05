@@ -1,6 +1,7 @@
 #ifndef SLOG_H_
 #define SLOG_H_
 
+#include <chrono>
 
 // Installing:
 //      When compile add -DSLOGGING or/and -DLOGGING_DEBUG
