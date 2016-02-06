@@ -2,6 +2,7 @@
 #define SLOG_H_
 
 #include <chrono>
+#include <cstdint>
 
 // Installing:
 //      When compile add -DSLOGGING or/and -DLOGGING_DEBUG
